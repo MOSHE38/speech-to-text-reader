@@ -1,4 +1,4 @@
 # Speech-to-text-reader
 
 A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
-[Here is the link](speechtext.netlify.com)
+Click [here](speechtext.netlify.com) to visit the link 
